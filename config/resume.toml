@@ -1,19 +1,19 @@
 ############## Education config #################
 #################################################
 [[education]]
-title = "High school of art and design"
-timeline = "2002 — 2004"
-description = "Duis aute irure dolor in reprehenderit in voluptate, quila voluptas mag odit aut fugit, sed consequuntur magni dolores eos."
+title = "VIT Bhopal University"
+timeline = "Ongoing"
+description = "I have maintained a solid academic record throughout your studies, excelling in key subjects such as Data Structures, Algorithms, Object-Oriented Programming (OOP), and JavaScript, while also building expertise in full stack development through hands-on projects"
 
 [[education]]
-title = "New york academy of art"
-timeline = "2006 — 2007"
-description = "Ratione voluptatem sequi nesciunt, facere quisquams facere menda ossimus, omnis voluptas assumenda est omnis.."
+title = "St. Xavier's High School"
+timeline = "2019 — 2021"
+description = "I pursued a strong academic focus on Physics, Mathematics, and Chemistry. I secured an aggregate percentage of 66.4%, which not only reflects my commitment to academics but also prepared me well for my transition into the technical demands of computer science at the undergraduate level."
 
 [[education]]
-title = "University school of the arts"
-timeline = "2007 — 2008"
-description = "Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas molestias exceptur."
+title = "St. Xavier's High School"
+timeline = "2010 — 2019"
+description = "I successfully completed my high school journey at St. Xavier's High School, achieving an aggregate percentage of 72%. This period laid the foundation for who I am today, shaping my core values, work ethic, and passion for learning."
 
 
 ############## Experience config ################
