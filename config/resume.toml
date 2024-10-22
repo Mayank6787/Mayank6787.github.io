@@ -35,7 +35,15 @@ show_bar = true
 show_value = true
 
 [[skill]]
-title = "Web design"
+title = "React js"
+value = "80%"
+
+[[skill]]
+title = "MongoDB"
+value = "80%"
+
+[[skill]]
+title = "Bootstrap"
 value = "80%"
 
 [[skill]]
