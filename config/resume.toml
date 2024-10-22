@@ -19,19 +19,11 @@ description = "I successfully completed my high school journey at St. Xavier's H
 ############## Experience config ################
 #################################################
 [[experience]]
-title = "Web designer"
-timeline = "2010 — 2013"
-description = "Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas molestias exceptur."
+title = "Full Stack developer "
+timeline = "2022-2023"
+description = "
+As a Full Stack MERN Developer intern at Ethnus, I led a team to successfully develop and deploy full-stack applications, improving server routing and fetch request handling. I gained expertise in the MERN stack, Git version control, and AWS. My experience sharpened my problem-solving skills and ability to work efficiently in collaborative environments."
 
-[[experience]]
-title = "Art director"
-timeline = "2013 — 2015"
-description = "Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas molestias exceptur."
-
-[[experience]]
-title = "Creative director"
-timeline = "2015 — Present"
-description = "Nemo enim ipsam voluptatem blanditiis praesentium voluptum delenit atque corrupti, quos dolores et qvuas molestias exceptur."
 
 
 ############## Skills config ####################
@@ -45,10 +37,6 @@ show_value = true
 [[skill]]
 title = "Web design"
 value = "80%"
-
-[[skill]]
-title = "Graphic design"
-value = "70%"
 
 [[skill]]
 title = "Branding"
@@ -67,9 +55,9 @@ show_bar = true
 show_value = true
 
 [[language]]
-title = "Ingles"
-value = "60%"
+title = "English"
+value = "90%"
 
 [[language]]
-title = "French"
-value = "50%"
+title = "Hindi"
+value = "100%"
