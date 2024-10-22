@@ -1,14 +1,14 @@
-name = "Richard hanrick"
-rol = "Flutter Developer"
-email = "richard@example.com"
-phone = "+1 (213) 352-2795"
-birthday = "June 26, 1996"
-location = "Sacramento, California, USA"
+name = "Mayank singh"
+rol = "Full Stack Mern Developer"
+email = "mayanksingh6787@gmail.com"
+phone = "+918530906787"
+birthday = "August 11, 2003"
+location = "Nagpur , Maharashtra, INDIA"
 avatar = "./config/assets/avatars/my-avatar.png"
-username = "richardhanrick" # <-- github user name
-googlemaps = "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d199666.5651251294!2d-121.58334177520186!3d38.56165006739519!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x809ac672b28397f9%3A0x921f6aaa74197fdb!2sSacramento%2C%20CA%2C%20USA!5e0!3m2!1sen!2sbd!4v1647608789441!5m2!1sen!2sbd" 
+username = "mayank6787" # <-- github user name
+googlemaps = "https://www.google.co.in/maps/place/11,+Nirmal+Nagari,+Nirmal+Nagar,+Nagpur,+Maharashtra+440009/@21.1235653,79.121648,17.66z/data=!4m15!1m8!3m7!1s0x3bd4b8a7747c32e1:0xee64b5aaa5e4a7bf!2sNirmal+Nagari,+Nirmal+Nagar,+Nagpur,+Maharashtra+440024!3b1!8m2!3d21.1234237!4d79.1234531!16s%2Fg%2F1v6p79sj!3m5!1s0x3bd4b8a7ecc6b8e7:0x7d48f7cc6ca81f14!8m2!3d21.122722!4d79.1221959!16s%2Fg%2F11c17lrylb?entry=ttu&g_ep=EgoyMDI0MTAxNi4wIKXMDSoASAFQAw%3D%3D" 
 presentation = """
-I'm Creative Director and UI/UX Designer from Sydney, Australia, working in web development and print media. I enjoy turning complex problems into simple, beautiful and intuitive designs.
+I am a dedicated Full Stack Developer with a strong background in building web applications using the MERN stack. Currently pursuing a B.Tech in Computer Science at Vellore Institute of Technology, Bhopal, I specialize in JavaScript, React.js, and backend technologies like Node.js and MongoDB.
 
-My job is to build your website so that it is functional and user-friendly but at the same time attractive. Moreover, I add personal touch to your product and make sure that is eye-catching and easy to use. My aim is to bring across your message and identity in the most creative way. I created web design for many famous brand companies.
+I’ve worked on several team-based projects, including an e-commerce platform and a to-do app, focusing on API design, database management, and creating user-friendly interfaces. With certifications in AWS Cloud and a MERN Full Stack Internship, I’m constantly improving my skills in secure and efficient web development.
 """
